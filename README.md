@@ -1,2 +1,2 @@
 # Early-Detection-of-sepsis
-Used to detect the occurance of sepsis hours before.
+A Deep Learning RNN model along with GUI to detect the occurance of sepsis hours before with a 94% accuracy.
